@@ -8,6 +8,7 @@ public class testing {
 		System.out.print("water is colourless");
 		System.out.println("water is blue");
 		System.out.println("water is red");
+		System.out.println("kishan");
 	}
 
 }
