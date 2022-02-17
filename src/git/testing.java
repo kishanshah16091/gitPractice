@@ -9,6 +9,8 @@ public class testing {
 		System.out.println("water is blue");
 		System.out.println("water is red");
 		System.out.println("kishan");
+		
+		System.out.println("hello from the other side");
 	}
 
 }
